@@ -2,7 +2,7 @@
 
 # Мета: Навчити нейромережу відрязняти квіти
 
-#Файли
+# Файли
 - Classification_Rose_Daisy - код
 - test і train - зображення
 - requirements.txt - бібліотеки
