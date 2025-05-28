@@ -6,7 +6,7 @@
 - Classification_Rose_Daisy - код
 - test і train - зображення
 - requirements.txt - бібліотеки
-- gitignore
+- gitignore - файли які ігнорувати
 
 # Як запустити 
 -  pip install -r requirements.txt
