@@ -1,0 +1,14 @@
+# Не відслідковувати зображення
+train/
+test/
+
+# Byte-кеш
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Системні
+.DS_Store
+Thumbs.db
